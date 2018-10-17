@@ -11,6 +11,7 @@ Title: Les trois villes: Rome
 Author: Émile Zola
 
 Release Date: December 1, 2010 [EBook #34528]
+[Last updated: August 17, 2017]
 
 Language: French
 
@@ -6956,7 +6957,7 @@ Morano, très mécontent du demi-échec de son mémoire devant la
 congrégation, accusant le père Lorenza, le confesseur de la tante et de
 la nièce, de les avoir poussées à un procès fâcheux, où il n'y aurait
 que du scandale pour tout le monde. Et il n'avait plus reparu au palais
-Boccanera, s'était la rupture d'une vieille liaison de trente années,
+Boccanera, c'était la rupture d'une vieille liaison de trente années,
 une véritable stupeur pour tous les salons de Rome, qui désapprouvaient
 formellement Morano. Donna Serafina était d'autant plus ulcérée, qu'elle
 le soupçonnait de soulever là une mauvaise querelle et de la quitter
@@ -7208,7 +7209,7 @@ et monter l'escalier Royal. Et Pierre, dans ce monde géant, où toutes
 les dimensions s'exagéraient, d'une écrasante majesté, soufflait un peu,
 en gravissant les larges marches.
 
-Quand il entra dans la chapelle Sixtine, il éprouve d'abord une
+Quand il entra dans la chapelle Sixtine, il éprouva d'abord une
 surprise. Elle lui parut petite, une sorte de salle rectangulaire, très
 haute, avec sa fine cloison de marbre qui la coupe aux deux tiers, la
 partie où se tiennent les invités, les jours de grande cérémonie, et le
@@ -8215,7 +8216,7 @@ qu'il la voyait, qu'il la comprenait pour la première fois. Sa dualité
 s'accusait dans les lèvres un peu fortes et charnelles, les yeux
 immenses, noirs et sans fond, et dans le visage si calme, si
 raisonnable, d'une délicatesse d'enfance. Avec cela, derrière ces yeux
-de flamme, sous cette peau d'une candeur liliale, on sentait la tension
+de flamme, sous cette peau d'une candeur filiale, on sentait la tension
 intérieure de la superstitieuse, de l'orgueilleuse et de la volontaire,
 la femme qui se gardait obstinément à son amour, ne manoeuvrant que pour
 en jouir, toujours prête, dans sa raison avisée, à quelque folie de
@@ -15348,7 +15349,7 @@ encore qu'il s'engageait à reconquérir ce pouvoir. Et il avait tout un
 plan qu'on se chuchotait à l'oreille, un plan d'une victoire certaine,
 foudroyant dans ses résultats, malgré d'apparentes concessions: ne plus
 défendre aux catholiques de voter et d'être candidats, envoyer à la
-Chambre cent membres, puis deux cents, puis trois cents, renversera lors
+Chambre cent membres, puis deux cents, puis trois cents, renverser lors
 la monarchie de Savoie, pour installer une sorte de vaste fédération des
 provinces italiennes, dont le Saint-Père, rentré en possession de Rome,
 deviendrait le Président auguste et souverain.
@@ -16101,7 +16102,7 @@ en cour d'assises le naïf qui s'en servirait. Ce sont des contes à
 dormir debout, et c'est à peine si les bonnes gens les tolèrent encore
 dans les romans-feuilletons.
 
---Je veux bien, reprit le comte, avec son sourire gêné. Tous avez sans
+--Je veux bien, reprit le comte, avec son sourire gêné. Vous avez sans
 doute raison... Seulement, allez donc dire cela, tenez! à votre hôte, au
 cardinal Boccanera, qui a tenu dans ses bras un vieil ami à lui,
 tendrement aimé, monsignor Gallo, mort l'été dernier, en deux heures.
@@ -18987,7 +18988,7 @@ surprises chez le cardinal Sanguinetti, la hâte d'agir devant la mort
 probable du pape régnant, la suggestion du crime au nom du salut de
 l'Église, puis ce curé rencontré sur la route, avec son petit panier de
 figues, puis ce panier promené par le crépuscule de la mélancolique
-Campagne, longuement, dévotement, sur les genoux du prêtre, ce panier
+campagne, longuement, dévotement, sur les genoux du prêtre, ce panier
 dont le souvenir le hantait maintenant d'un cauchemar, dont il reverrait
 toujours, avec un frisson, et la forme, et la couleur, et l'odeur. Le
 poison, le poison! c'était vrai pourtant, ça existait, ça circulait
@@ -20298,7 +20299,7 @@ longue cuiller, but une gorgée. Et cela doucement, d'un air prudent et
 raisonné, comme tout ce qu'il devait penser et faire.
 
 --J'ai lu votre livre, mon fils, oui! en grande partie. D'habitude, on
-ne me soumet que des fragments. Mais quel qu'un qui s'intéresse à vous
+ne me soumet que des fragments. Mais quelqu'un qui s'intéresse à vous
 m'a remis directement le volume, en me suppliant de le parcourir. C'est
 ainsi que j'ai pu en prendre connaissance.
 
@@ -22928,7 +22929,7 @@ morale, quelle mortelle inquiétude d'avoir été deviné.
 
 La pâleur de Prada s'accrut, un frémissement agita toute sa face.
 
---Ah! c'est pour mon père... Il est un peu-souffrant, ménagez-le.
+--Ah! c'est pour mon père... Il est un peu souffrant, ménagez-le.
 
 Et son angoisse confessait clairement, malgré lui, tout ce qu'il
 redoutait, une parole imprudente, peut-être même une mission dernière,
@@ -23182,7 +23183,7 @@ verrez, vous verrez, tout se peuplera, il faudra bâtir encore... Et
 puis, franchement, peut-on dire une nation pauvre, qui possède la
 Lombardie? Notre Midi lui-même n'est-il pas d'une richesse inépuisable?
 Laissez la paix se faire, le Midi se fondre avec le Nord, toute une
-génération de travailleurs grandir; et, puisque le sol y est, si
+génération de travailleurs grandir; et, puisque le sol y est si
 fertile, il faudra bien qu'un jour la grande moisson attendue pousse et
 mûrisse au brûlant soleil!
 
@@ -23820,7 +23821,7 @@ Il s'interrompit pour demander:
 
 --Vous saviez que c'était un Botticelli?
 
---Ma foi, non! J'ai interrogé un jour don Vigilio, mais il a para faire
+--Ma foi, non! J'ai interrogé un jour don Vigilio, mais il a paru faire
 peu de cas de cette peinture. Et Victorine, à qui j'en ai parlé
 également, m'a répondu que toutes ces vieilleries, ce n'étaient que des
 nids à poussière.
@@ -24030,7 +24031,7 @@ masse enténébrée! Un autre souvenir s'éveilla, les trois points
 souverains, les trois sommets symboliques qui avaient, dès ce jour-là,
 résumé pour lui l'histoire séculaire de Rome, l'antique, la papale,
 l'italienne. Mais, si le Palatin était resté le même mont découronné où
-ne se dressait que le fantôme de l'ancêtre. Auguste empereur et pontife,
+ne se dressait que le fantôme de l'ancêtre, Auguste empereur et pontife,
 maître du monde, il voyait avec d'autres yeux Saint-Pierre et le
 Quirinal, qui avaient comme changé de plans. Ce palais du roi qu'il
 négligeait alors, qui lui semblait une caserne plate et basse, ce
@@ -24498,7 +24499,7 @@ l'abbé.
 Déjà, la voiture partait, au trot vif du cheval, tournait dans les rues
 étroites et tortueuses qui mènent au cours Victor-Emmanuel. Il ne
 pleuvait pas, la capote n'avait pas été relevée; mais l'air humide avait
-beau être doux, le prêtre se sentit-tout de suite pris de froid, sans
+beau être doux, le prêtre se sentit tout de suite pris de froid, sans
 vouloir perdre le temps à faire arrêter le cocher, un silencieux,
 celui-ci, qui semblait n'avoir que la hâte de se débarrasser de son
 voyageur.
